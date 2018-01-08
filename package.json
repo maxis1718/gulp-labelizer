@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/maxis1718/gulp-labelizer",
   "author": "Maxis Kao <maxis@codementor.io>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "hasha": "^3.0.0",
+    "through2-concurrent": "^1.1.1"
+  }
 }
