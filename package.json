@@ -1,0 +1,9 @@
+{
+  "name": "gulp-labelizer",
+  "version": "0.1.0",
+  "description": "A gulp plugin for file labeling",
+  "main": "index.js",
+  "repository": "https://github.com/maxis1718/gulp-labelizer",
+  "author": "Maxis Kao <maxis@codementor.io>",
+  "license": "MIT"
+}
